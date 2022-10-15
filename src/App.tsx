@@ -4,7 +4,6 @@ import { Header } from './component/Header'
 import { Banner } from './component/Banner'
 import { Movies } from './types/Movies'
 import { Footer } from './component/Footer'
-import styled from 'styled-components'
 
 function App() {
   type movie = {

@@ -3,7 +3,7 @@ export const Footer = () => {
         <footer>
             <div className="container background__color footer__list">
                 <div>
-                    <img src="./src/img/icon.png" className="nav__icon" />
+                    <img src="./img/icon.png" className="nav__icon" />
                     <p>Filmes e Series</p>
                 </div>
                 <div className="list">
